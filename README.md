@@ -1,8 +1,9 @@
-# 成果
+# 成果(未完成)
 1. 清除樹
 2. 刪除節點
 3. 增加節點
 4. 前序，中序，後序遍歷
+
 ![image](https://github.com/amstudnet/tree/blob/master/image.png)
 
 ![imgae](https://github.com/amstudnet/tree/blob/master/postorder.png)
